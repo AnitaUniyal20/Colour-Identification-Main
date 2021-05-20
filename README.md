@@ -27,7 +27,7 @@ python ColourIdentification.py -i <path of image file>
 
 ## Example to run python file (according to this code)
 bash
-python ColourIdentification.py -i nature.jpg
+python ColourIdentification.py -i Colourimage.jpg
 
 
 ## Output
