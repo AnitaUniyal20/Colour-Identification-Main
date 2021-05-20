@@ -11,23 +11,19 @@ pip install pandas
 
 * argparse
 
-bash
-pip install argparse
+bash pip install argparse
 
 
 * Opencv
 
-bash
-pip install opencv-python
+bash pip install opencv-python
 
 
 ## Run Python File
-bash
-python ColourIdentification.py -i <path of image file>
+bash python ColourIdentification.py -i <path of image file>
 
 ## Example to run python file (according to this code)
-bash
-python ColourIdentification.py -i Colourimage.jpg
+bash python ColourIdentification.py -i Colourimage.jpg
 
 
 ## Output
