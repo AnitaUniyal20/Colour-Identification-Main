@@ -27,13 +27,13 @@ python ColourIdentification.py -i <path of image file>
 ```
 ## Example to run python file (according to this code)
 ```bash
-python ColourIdentification.py -i dog.jpg
+python ColourIdentification.py -i Colourimage.jpg
 ```
 
 ## Output
 
   * It clearly identifies the color of the selected area in the image.
-![image](Output.PNG)
+![image](Output.JPG)
 
 
 
